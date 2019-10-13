@@ -1,0 +1,20 @@
+{
+  "name": "burgertime",
+  "version": "1.0.0",
+  "description": "burgerapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericlamacchia/burgertime.git"
+  },
+  "author": "Eric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericlamacchia/burgertime/issues"
+  },
+  "homepage": "https://github.com/ericlamacchia/burgertime#readme"
+}
